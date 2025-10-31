@@ -59,7 +59,7 @@ The important part here is to understand the fundamentals of federated learning 
 
 ## Submission
 
-Just create a private repo according to the instructions on the [main branch](https://github.com/DaSH-Lab-CSIS/DaSH-Lab-Induction-Assignment-2025/tree/main) and code up your implementation there!
+Just create a private repo according to the instructions on the [main branch](https://github.com/DaSH-Lab-CSIS/DaSH-Lab-Induction-Assignment-2025/tree/main) and code up your implementation in [this folder](https://github.com/DaSH-Lab-CSIS/DaSH-Lab-Induction-Assignment-2025/tree/ML-sys/task_2)!
 
 Setting up PyTorch for the first time might be painful if you've never done it before. You can follow the instructions on this page to set it up with CUDA support - [PyTorch Installation Guide](https://pytorch.org/get-started/locally/)
 
