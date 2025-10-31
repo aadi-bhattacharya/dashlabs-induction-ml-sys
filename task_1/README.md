@@ -42,9 +42,7 @@ You're supposed to answer these questions in not more than 60-80 words. Please d
 
 Fill the answers to the given questions in this [Google Form](https://forms.gle/tJ9Krj1NXDw85wBj7)
 
-For any queries, contact me (Atharva Pandit) or any one of us from the SysML induction team. 
-
-Contact: +91 8591528972
+For any queries, contact me (Atharva Pandit) on Slack, or any one of us from the SysML induction team. 
 
 ---
 
